@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>file_name</key>
+		<string>charles.ttf</string>
+		<key>font_name</key>
+		<string>CharlesAtlas</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>coney_island.ttf</string>
+		<key>font_name</key>
+		<string>ConeyIsland</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>COSMOJUN.ttf</string>
+		<key>font_name</key>
+		<string>Cosmojunk</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>CYBERWHI.ttf</string>
+		<key>font_name</key>
+		<string>Cyberwhiz</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>atonic.otf</string>
+		<key>font_name</key>
+		<string>ArtonicPersonalUseOnly</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>GristledFont-Regular.otf</string>
+		<key>font_name</key>
+		<string>GristledFont-Regular</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>LazySaturdays.ttf</string>
+		<key>font_name</key>
+		<string>LazySaturdays</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>MacyandKaraFont.ttf</string>
+		<key>font_name</key>
+		<string>MacyandKaraFont</string>
+	</dict>
+	<dict>
+		<key>file_name</key>
+		<string>prissyDramatic.ttf</string>
+		<key>font_name</key>
+		<string>prissy_</string>
+	</dict>
+</array>
+</plist>
